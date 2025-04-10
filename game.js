@@ -6,7 +6,7 @@ canvas.height = 600;
 
 // === Assets ===
 const backgroundImg = new Image();
-backgroundImg.src = "flappybirdbg.png";
+backgroundImg.src = "flappybirdbg2.jpg";
 
 // === Game Variables (Backend Only) ===
 const gravity = 0.6;
