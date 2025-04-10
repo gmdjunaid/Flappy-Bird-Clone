@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #70c5ce; /* fallback */
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  background-color: #000; /* fallback in case image fails */
+}
