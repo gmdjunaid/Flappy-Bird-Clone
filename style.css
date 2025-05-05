@@ -1,12 +1,27 @@
-body, html {
+/* body, html {
   margin: 0;
   padding: 0;
   height: 100%;
   overflow: hidden;
+  background-color: #70c5ce;
 }
 
 canvas {
   display: block;
   width: 100vw;
   height: 100vh;
+} */
+ body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #70c5ce;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+canvas {
+  display: block;
+  border: 2px solid #000;
 }
