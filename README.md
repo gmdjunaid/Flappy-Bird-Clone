@@ -35,7 +35,7 @@ A web-based Flappy Bird clone developed as a final project for our computer grap
 3. Click the **Play** button to begin
 4. Press `Space` to flap, `R` to restart after Game Over
 
-## 📹 Demo Video (Optional)
+## 📹 Demo Video 
 
 
 https://github.com/user-attachments/assets/99e24a4c-19cd-4048-b4d4-416e1d6d2f2a
